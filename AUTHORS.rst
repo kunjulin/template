@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* 林昆儒
+* 鍾慶駿
 
 
